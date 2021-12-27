@@ -37,17 +37,6 @@
   }
 }
 
-html, body {
-  height: 100%;
-}
-
-#root {
-  height: 90%;
-}
-
-.bg {
-  background-image: url('https://www.mergersandinquisitions.com/wp-content/uploads/2018/12/how-to-get-into-investment-banking-around-the-world.jpg');
-  background-repeat: no-repeat;
-  background-size: 100% 100%;
-  background-position: center;
+html, .bg-color {
+  background-color:#61dafb;
 }

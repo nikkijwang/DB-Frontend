@@ -9,11 +9,11 @@ const Main = () => {
     // const [auth, setAuth] = useState(true);
 
     return (
-        <div className="h-100">
+        <div>
             <header>
                 <Navbar />
             </header>
-            <main className="h-100 bg">
+            <main className="bg-color">
                 {/* TODO: Change this into a component */}
                 <div key="main" className="container" style={{"display": "flex", "alignItems": "center", "width": "100%", "justifyContent": "center"}}>
                     <div className="card text-center w-50" style={{"margin": "100px 0"}}>
