@@ -19,7 +19,6 @@ const Main = () => {
                     <div className="card text-center w-50" style={{"margin": "100px 0"}}>
                         <div className="card-header">
                             <ul className="nav nav-tabs card-header-tabs">
-                                {/* TODO: Figure out how to change the content of the components depending on which tab is active */}
                                 <li className="nav-item w-50">
                                     <button className="nav-link w-100 active" id="loginTab" key="loginTab" data-bs-toggle="tab" data-bs-target="#login" 
                                         type="button" role="tab" aria-controls="login" aria-current="true">Login</button>
